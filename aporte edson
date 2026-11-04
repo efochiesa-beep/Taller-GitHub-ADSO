@@ -1,0 +1,39 @@
+TAREAS PENDIENTES - Taller GitHub ADSO
+Repositorio: https://github.com/edsonyulianr-rgb/Taller-GitHub-ADSO.git
+
+Equipo: Edison Rivera, David Martinez, Juan David Lozano, Edwin Ramirez
+Fecha de creacion: 2026-11-04
+
+
+INSTRUCCIONES
+- Editen solo su nombre y su tarea.
+- No borren lo que escriban los demas.
+- Guarden el archivo con Ctrl+S antes de subirlo.
+- Para subirlo: git add tareas_pendientes_equipo.txt
+  git commit -m "Actualizar tareas pendientes"
+  git push origin main
+
+
+LISTA DE TAREAS PENDIENTES
+[ ] Edison: ________________________________________________
+[ ] David: ________________________________________________
+[ ] Juan David: ________________________________________________
+[ ] Edwin: ________________________________________________
+
+ESTADO DEL PROYECTO (editen en comun)
+Hito / Rama / Archivo: ________________________________________
+Estado: ____________________________________________________
+Proxima accion: ____________________________________________
+
+
+APORTES POR PERSONA
+- Edison:
+- David:
+- Juan David:
+- Edwin:
+
+
+NOTAS
+-
+-
+-
